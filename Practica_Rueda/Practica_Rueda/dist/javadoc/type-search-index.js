@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"RuedaSanchezValdesJuanPablo2324","l":"Practica_Rueda"},{"p":"RuedaSanchezValdesJuanPablo2324","l":"Rueda"}]
